@@ -1,5 +1,6 @@
- a * b =c 
+def mult (a,b)
+return(a*b)
 
-print (c)
+
 
 
