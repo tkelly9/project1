@@ -1,3 +1,2 @@
-def (a,b):
-    return (a + b)
-
+def (a,b,c):
+    return (a + b + c)
